@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp;
 
-# <img src="img_5.png" width="20" height="20"> Contract
+# <img src="img_7.png" width="20" height="20"> Contract
 Blogs : https://victoryddh5-doha.tistory.com
 
 E-Mail : victoryddh@gmail.com
